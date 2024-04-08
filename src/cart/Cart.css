@@ -1,0 +1,23 @@
+.main-cart{
+    width: calc(100% - 96px);
+    max-width: 1600px;
+    padding: 0px 40px;
+    margin: 0px auto;
+}
+.cart-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px 15px;
+
+}
+.currency{
+    padding: 6px 20px;
+    width: 100px;
+    border: none;
+    background-color: #585858;
+    color: #fff;
+    border-radius: 8px;
+}
+select>option{
+    color: white;
+}

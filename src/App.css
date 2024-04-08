@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "FixelText", sans-serif;
+}
+@font-face {
+    font-family: "FixelText", sans-serif;
+    src: url("./font/FixelDisplay/FixelDisplay-Medium.otf") format("otf") ;
+    font-weight: 500;
+}

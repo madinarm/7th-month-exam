@@ -1,0 +1,6 @@
+.liked-products{
+    display: flex;
+    gap: 15px;
+    width: 100%;
+    padding: 0px 40px;
+}
